@@ -1,4 +1,4 @@
-package com.eraqi.agenticbudgetmanager
+package com.eraqi.agenticbudgetmanager.user_details.data
 
 import java.math.BigDecimal
 

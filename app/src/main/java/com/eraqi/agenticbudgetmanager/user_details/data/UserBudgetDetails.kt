@@ -1,6 +1,5 @@
-package com.eraqi.agenticbudgetmanager
+package com.eraqi.agenticbudgetmanager.user_details.data
 
-import kotlinx.serialization.Serializable
 import java.math.BigDecimal
 
 data class UserBudgetDetails(

@@ -1,8 +1,7 @@
-package com.eraqi.agenticbudgetmanager
+package com.eraqi.agenticbudgetmanager.user_details.data
 
 import java.math.BigDecimal
 import javax.inject.Inject
-
 
 class UserBudgetDetailsRepoImpl @Inject constructor(): UserBudgetDetailsRepo {
     override fun getMonthlyIncome() {
